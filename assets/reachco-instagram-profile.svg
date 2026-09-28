@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="ReachCo Instagram profile logo">
+  <defs>
+    <linearGradient id="p" x1="75" y1="420" x2="438" y2="85" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2F7CF6"/><stop offset="0.52" stop-color="#7B4DFF"/><stop offset="1" stop-color="#FF3F7F"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="120" fill="#101216"/>
+  <circle cx="256" cy="256" r="184" fill="none" stroke="#fff" stroke-opacity=".18" stroke-width="5"/>
+  <circle cx="256" cy="128" r="31" fill="#FF3F7F"/>
+  <circle cx="137" cy="252" r="28" fill="#377EF5"/>
+  <circle cx="375" cy="252" r="28" fill="#2F8CFF"/>
+  <path d="M256 164 C225 164 204 185 188 215 L157 270 C146 289 157 315 180 323 C202 331 223 319 235 300 L256 267 L277 300 C289 319 310 331 332 323 C355 315 366 289 355 270 L324 215 C308 185 287 164 256 164Z" fill="url(#p)"/>
+  <path d="M159 253 L201 247 M353 247 L395 253" fill="none" stroke="url(#p)" stroke-width="15" stroke-linecap="round"/>
+</svg>
